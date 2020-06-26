@@ -1,2 +1,2 @@
-# Ridge-Regression-for-House-Price-Detection
-Predicting prices of Houses on a paramount amount of features.
+# Ridge Regression for House Price Detection
+Predicting prices of Houses on a paramount amount of features. Later, performed Exploratory Data Analysis to observe trends among various feature columns in the data set. Cleaned the data using meaningful imputations and deleting unncessary columns. Then, predictied the price using Linear Regression and Ridge Regression. Ridge Regression performed better than Linear Regression . Later, model was trained with best hyper parameters for Ridge Regression for optimal results.
